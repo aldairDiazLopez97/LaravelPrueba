@@ -1,0 +1,6 @@
+1. configurar e intalar composer con laravel: composer global require laravel/installer
+2. luego crear el proeycto con laravel con una carpta espeficia: composer create-project --prefer-dist laravel/laravel <carpetaproeycto>
+3. Luego abrir ls puertos con:
+    3.1. entrar a la carpte del poyecto: cd <carpetproyecto>/
+    3.2. activar el puerto por defecto: php artisan serv
+    3.3. para cerrar el puerto y el servidor:  Ctrl+C
